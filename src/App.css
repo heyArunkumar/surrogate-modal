@@ -1,0 +1,102 @@
+/* .css-105qr5e{
+     width: 530px !important;
+     padding-left: 20px !important;
+     padding-right: 20px !important;
+     border-radius: 5px;
+     border: none !important;
+}
+.modal_title{
+    font-size: 17px !important;
+    
+    padding-bottom: 10px;
+    padding-top: 8px;
+    color: #5c5e60;
+}
+.pause_content{
+    padding-top: 19px;
+    padding-bottom: 10px;
+    font-size: 14px !important;
+    font-weight: 500;
+}
+.textarea_title{
+  margin-top: 15px !important; 
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  margin-bottom: 6px !important;
+}
+.modal_buttons{
+  float: right;
+  padding: 7px 0;
+}
+.css-ahj2mt-MuiTypography-root{
+  font-size: 14px !important;
+ }
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked{
+  color: #0c4ca8 !important;
+}
+.textarea{
+  font-size: 11px !important;
+  color: #a2a3a4;
+  margin-top: 4px !important;
+  margin-bottom: 15px !important;
+  display: flex;
+  justify-content: flex-end;
+}
+  
+  
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root{
+  margin-right: 30px !important;
+  padding: 5px 17px !important;
+  font-size: 13px !important;
+  font-weight: 600 !important;
+  color:  #363636 !important;
+  border: 1px solid #363636 !important;
+  text-transform: capitalize !important;
+}
+
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root{
+  padding: 6px 23px !important;
+  font-size: 13px !important;
+    font-weight: 600 !important; 
+    text-transform: capitalize !important;
+    background-color: #0c4ca8 !important;
+}
+.Modal_datepicker{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+input::placeholder{
+  font-size: 1px !important;
+}
+
+
+.MuiSvgIcon-root{
+  color: #0b4aa7;
+} 
+.pause_content{
+  border-top: 1px solid #91939375;
+  margin-top: 10px !important;
+} */
+
+.css-ahj2mt-MuiTypography-root{
+  font-size: 12px !important;
+ }
+ .MuiFormLabel-root {
+  font-size: 14px !important;
+
+}
+.css-ize5hj-MuiTypography-root{
+  margin-bottom: 5px !important;
+}
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked{
+  color: #0c4ca8 !important;
+}
+.css-i4bv87-MuiSvgIcon-root{
+  color: #0c4ca8;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+  width: 190px !important;
+}
